@@ -153,3 +153,9 @@ wordcloud==1.8.2.2
 ydata_profiling==3.4.0
 yellowbrick==1.2.1
 zipp==3.10.0
+streamlit
+pandas
+plotly
+pycaret
+ydata_profiling
+streamlit-pandas-profiling
